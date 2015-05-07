@@ -7,11 +7,11 @@ $(document).ready(function () {
         var $table = $('div.dict-item-word.checked').find('.item-word-translate');
         function exportTableToCSV($table, filename) {
 
-            var colDelim = '","', rowDelim = '"\r\n"', csv = '"';
+            var colDelim = '","', rowDelim = '"\r\n', csv = '';
             $table.each(function(index) {
-                var eng = $(this).find('b').text();
-                var rus = $(this).find('span').text();
-                csv += index + colDelim + eng + colDelim + rus + rowDelim;
+                var eng = $.trim($(this).find('b').text());
+                var rus = $.trim($(this).find('span').text());
+                csv += '"' + index + colDelim + eng + colDelim + rus + rowDelim;
             });
             console.log(csv);
 
