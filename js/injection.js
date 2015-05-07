@@ -1,7 +1,7 @@
 $(document).ready(function () {
     //document.body.style.backgroundColor="red";
     $('.export').remove();
-    $('.dict-filter.dict-actions').find('.last-btn').before('<a class="export" role="button"><button data-tooltip-pos="bottom right" data-tooltip="Export"><i style="display: inline-block; background: url(url) no-repeat; width: 16px; height: 16px;">&#222;</i></button></a>');
+    $('.dict-filter.dict-actions').find('.last-btn').before('<a class="export" role="button"><button data-tooltip-pos="bottom right" data-tooltip="Export"><i style="display: inline-block; background: url(https://raw.githubusercontent.com/bilabon/Export-leo/master/export-leo-16.png) no-repeat; width: 16px; height: 16px;"></i></button></a>');
 
     $(".export").click(function () {
         var $table = $('div.dict-item-word.checked').find('.item-word-translate');
