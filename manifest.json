@@ -1,5 +1,5 @@
 {
-    "name": "Export-leo - The easiest dictionary export from LinguaLeo",
+    "name": "Export-leo - LinguaLeo dictionary export",
     "short_name": "Export-leo",
     "description": "You can easily export your own dictionary from LinguaLeo to a CSV file.",
     "version": "1.1",
