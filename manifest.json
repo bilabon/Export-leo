@@ -8,7 +8,7 @@
     },
     "author": "Bazas Dmytro <babyx64@gmail.com>",
     "icons": {
-        "128": "leo-export-128.png"
+        "128": "export-leo-128.png"
     },
     "manifest_version": 2,
     "content_scripts": [{
