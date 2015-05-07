@@ -9,4 +9,4 @@ Chrome extension for exporting dictionary from Lingualeo to a CSV file.
 - If you see wrong encoding, try to open the CSV file with Google Docs
 
 ### Совет:
-- Если вы увидили неправильную кодировку, попробуйте открыть документ например в Google Docs ( https://docs.google.com )
+- Если вы увидели неправильную кодировку, попробуйте открыть документ например в Google Docs ( https://docs.google.com )
