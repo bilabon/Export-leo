@@ -1,5 +1,7 @@
 # Export-leo
-Chrome extension for exporting dictionary from Lingualeo to a CSV file.
+
+> Chrome extension for exporting dictionary from Lingualeo to a CSV file.
+> Link to extension: https://chrome.google.com/webstore/detail/export-leo-lingualeo-dict/ljcmfepnkepjmnnokpdeinjefcipjbeo
 
 ### Features:
 - You can choose which words you want to export
