@@ -6,7 +6,7 @@
     "browser_action": {
         "default_title": "Exporting dictionary from Lingualeo to a CSV file"
     },
-    "author": "Bazas Dmytro <babyx64@gmail.com>",
+    "author": "Dmytro Bazas <babyx64@gmail.com>",
     "icons": {
         "128": "export-leo-128.png"
     },
