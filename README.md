@@ -10,7 +10,7 @@
 ### Tip:
 - If you have any problem with encoding a CSV file, try to open the CSV file with Google Docs ( https://docs.google.com )
 
-> Chrome разширение для скачивания/экспорта слов/словаря из Lingualeo в CSV файл.
+> Chrome расширение для скачивания/экспорта слов/словаря из Lingualeo в CSV файл.
 
 ### Особенности:
 - Есть возможность выбора слов для экспорта в CSV файл.
