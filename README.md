@@ -1,6 +1,7 @@
 # Export-leo
 
 > Chrome extension for exporting a dictionary from Lingualeo to a CSV file.
+> Chrome расширение для скачивания/экспорта слов/словаря из Lingualeo в CSV файл.
 > Link to the extension: https://chrome.google.com/webstore/detail/ljcmfepnkepjmnnokpdeinjefcipjbeo
 
 ### Features:
@@ -8,12 +9,10 @@
 - Exporting any text with transcription from Lingualeo
 
 ### Tip:
-- If you have any problem with encoding a CSV file, try to open the CSV file with Google Docs ( https://docs.google.com )
-
-> Chrome расширение для скачивания/экспорта слов/словаря из Lingualeo в CSV файл.
+If you have any problem with encoding a CSV file, try to open the CSV file with Google Docs ( https://docs.google.com )
 
 ### Особенности:
-- Есть возможность выбора слов для экспорта в CSV файл.
+- Есть возможность выбора слов для экспорта в CSV файл
 - Экспорт слов вместе с их транскрипцыей
 
 ### Совет:
