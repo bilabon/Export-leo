@@ -20,6 +20,7 @@
 Если вы увидели неправильную кодировку, попробуйте открыть документ например в Google Docs ( https://docs.google.com )
 
 **Key changes:**
-
+```
 1.2 - This update includes ability to export transcription, stability improvements.
 1.1 - Invented the new logo and icon, minor bugs fixed.
+```
