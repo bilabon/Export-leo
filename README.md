@@ -1,5 +1,4 @@
 # Export-leo
-
 **Chrome extension for exporting a dictionary from Lingualeo to a CSV file.**
 
 **Chrome расширение для скачивания/экспорта слов/словаря из Lingualeo в CSV файл.**
