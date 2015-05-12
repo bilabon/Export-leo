@@ -23,6 +23,6 @@ If you have any problem with encoding a CSV file, try to open the CSV file with 
 
 Key changes:
 
-1.2 - This update includes ability to export transcription, stability improvements.
-1.1 - Invented the new logo and icon, minor bugs fixed.
+* 1.2 - This update includes ability to export transcription, stability improvements.
+* 1.1 - Invented the new logo and icon, minor bugs fixed.
 
