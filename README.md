@@ -1,5 +1,5 @@
 # Export-leo
-**Chrome extension that gives you a possibility to export any wordlist/dictionary from Lingualeo to a CSV file.**
+**Chrome extension that gives you a possibility to export any wordlist/dictionary from Lingualeo.com to a CSV file.**
 
 **Chrome расширение для скачивания/экспорта слов/словаря из Lingualeo в CSV файл.**
 
